@@ -1,0 +1,35 @@
+body {
+    font-family: 'Are You Serious', cursive;
+    background: ghostwhite;
+}
+.head_div{
+    background: rgb(95, 94, 94);
+    color: whitesmoke;
+}
+p {
+    font-family: 'Roboto', monospace;
+    letter-spacing: 2px;
+    color: aqua;
+    font-size: 15px;
+    font-weight: bold;
+}
+button{
+    margin-top: 30px;
+    font-family: 'Roboto', monospace;
+    width: 120px;
+    letter-spacing: 2px;
+}
+#result_sound, #result_accuracy{
+    font-size: 30px;
+}
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: cadetblue;
+    background: lightcyan;
+    font-size: 15px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(170, 162, 113);
+}
